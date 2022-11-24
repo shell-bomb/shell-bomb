@@ -1,6 +1,6 @@
 ## HOLA POR AQUI 👋
 
- Soy M4laka un frikazo del anme y el manga, deportista y amante de la naturaleza a la vez que la ciberseguridad \
+ Soy M4laka un frikazo del anime y el manga, deportista y amante de la naturaleza a la vez que la ciberseguridad \
  me encanta reportar todo lo que hago para todos y todas para poder aprender
 
 # Sobre mi
