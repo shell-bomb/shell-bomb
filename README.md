@@ -11,7 +11,7 @@ Interesado en proyectos de:
 * Exploiting
 * Forensics
 * Lockpicking
-* Radiohacking
+* Low level and electronics
 
 
 # Mis proyectos
