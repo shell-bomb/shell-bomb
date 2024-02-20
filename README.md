@@ -1,21 +1,34 @@
-## HOLA POR AQUI 👋
+## HOLA POR AQUI 👋 HI there
 
- Soy M4laka un frikazo del anime y el manga, deportista y amante de la naturaleza a la vez que la ciberseguridad \
+ Soy M4laka un frikazo de la informatica, deportista y amante de la naturaleza a la vez que la ciberseguridad 
  me encanta reportar todo lo que hago para todos y todas para poder aprender
 
-# Sobre mi
-Trabajo como pentester y soy un apasionado de la ciberseguridad, me encana explorar y enfrentarme a nuevos retos, usualmente hago CTF \
-Y preparo certificaciones. \
-Interesado en proyectos de:
+ I'm M4laka, IT nerd, sportive person and nature lover while I research about cybersecurity, I love to share all my knowledge
+ with my colleagues to learn and share 
+
+# Sobre mi  / About me
+Trabaje como pentester y soy un apasionado de la ciberseguridad, me encana explorar y enfrentarme a nuevos retos, usualmente hago CTF \
+Y preparo certificaciones. 
+
+I worked as a penetration tester and I'm passionate about Cybersec, I'm famished of new challenges in this sector, I was a CTF player months ago :) 
+
+# Interesado en proyectos de:
+ Interested In
 * Web researching / Web Hacking
-* Exploiting
-* Forensics
+* EDR AV evasions
 * Lockpicking
 * Low level and electronics
+* Active directory (Currently Learning)
+* Windows Internals (Currently Learning)
 
 
 # Mis proyectos
-* Blog 
+My Current Projects
+* Cybersecurity blog
+* Penetration testing Cheatsheet
+* Active directory Cheatsheet
+* Red teaming in WebOSTV
+* Thesis of Webapp penetration testing reports in CVSS4.0
 
 # Donde encontrarme
 [Linkedin](https://www.linkedin.com/in/marco-carrasco-talan-6b5912198/) \
@@ -30,3 +43,5 @@ Interesado en proyectos de:
 </p>
 
 # Cosas interesantes
+My current projects and stuff are in my local drive :), I promised I'm going to upload those projects to my main github branch.
+Feel free to ask me for a copy of my cheatsheets and notes (I have both in english and spanish)
