@@ -3,8 +3,8 @@
  Soy M4laka un frikazo de la informatica, deportista y amante de la naturaleza a la vez que la ciberseguridad 
  me encanta reportar todo lo que hago para todos y todas para poder aprender
 
- I'm M4laka, IT nerd, sportive person and nature lover while I research about cybersecurity, I love to share all my knowledge
- with my colleagues to learn and share 
+I'm M4laka, IT nerd, sportive person and nature lover while I research about cybersecurity, 
+I love to share all my knowledge with my colleagues to learn and share
 
 # Sobre mi  / About me
 Trabaje como pentester y soy un apasionado de la ciberseguridad, me encana explorar y enfrentarme a nuevos retos, usualmente hago CTF \
