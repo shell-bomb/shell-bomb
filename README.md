@@ -20,11 +20,13 @@ I worked as a penetration tester and I'm passionate about Cybersec, I'm famished
 * Low level and electronics
 * Active directory (Currently Learning)
 * Windows Internals (Currently Learning)
+* C++ (Currently Leanring)
 
 
 # Mis proyectos
 My Current Projects
 * Cybersecurity blog
+* C++ Learning
 * Penetration testing Cheatsheet
 * Active directory Cheatsheet
 * Red teaming in WebOSTV
