@@ -14,13 +14,14 @@ I worked as a penetration tester and I'm passionate about Cybersec, I'm famished
 
 # Interesado en proyectos de:
  Interested In
-* Web researching / Web Hacking
+* Cloud Hacking (Currently Learning)
 * EDR AV evasions
 * Lockpicking
 * Low level and electronics
 * Active directory (Currently Learning)
 * Windows Internals (Currently Learning)
 * C++ (Currently Leanring)
+* C and ASM (Python aswell)
 
 
 # Mis proyectos
@@ -31,6 +32,7 @@ My Current Projects
 * Active directory Cheatsheet
 * Red teaming in WebOSTV
 * Thesis of Webapp penetration testing reports in CVSS4.0
+* Various talks about Windows PrivEsc and Active directory (ongoing)
 
 # Donde encontrarme
 [Linkedin](https://www.linkedin.com/in/marco-carrasco-talan-6b5912198/) \
