@@ -39,7 +39,7 @@ My Current Projects
 [Youtube](https://www.youtube.com/channel/UCTgM3LdJZjpEpilLJB3piCA) \
 [Discord](https://discord.gg/UXzFV3Dj8p)\
 [Github](https://github.com/shell-bomb) \
-[Twitter](https://twitter.com/D0vahking)
+[Twitter](A)
 # Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=shell-bomb&show_icons=true&layout=compact&bg_color=30,12c2e9,f64f59&title_color=fff&text_color=fff">
