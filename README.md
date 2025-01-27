@@ -30,15 +30,21 @@ I love to share all my knowledge with my colleagues to learn and share
 * Various talks about Windows PrivEsc and Active directory (ongoing)
 
 # My achievements
+* Awarded with google cloud bootcamp, collaboration between google and Altostratus.
 * Speaker at HackOn (Windows privilege escalation workshop)
 * Various talks in high schools and universities about hacking and Red teaming
+   * Linkia FP (Talk about hacking and bug bounty)
+   * Universidad de Valladolid (Active directory Workshop focused on red teaming).
+   * Internal company trainings (talking about Active directory and Windows)
 * Bug bounties discovered in:
   *  youtube.com
   *  https://www.doioig.gov/
   *  https://www.osac.gov/
   *  https://www.lavanguardia.com/
-* Volunteer in various conferences/competitions (RootedCON 2024 and National Cyberleague 2024).
-* 
+* Volunteer in various conferences/competitions (RootedCON 2024).
+* Staf Volunteer at National Cyberleague 2024 (Assisting participants with challenge related questions and explaining the solution of the challenge in front of world agencies including FBI)
+* Creating the training programme and certifications for new hires in my company (training programme for the cybersecurity department).
+*  Successfuly taught more than 10 students in 1 year about offensive security.
 
 # Find ME!
 [Linkedin](https://www.linkedin.com/in/marco-carrasco-talan-6b5912198/) \
@@ -46,8 +52,6 @@ I love to share all my knowledge with my colleagues to learn and share
 [Discord](https://discord.gg/UXzFV3Dj8p)\
 [Github](https://github.com/shell-bomb) \
 [Twitter](A)
-[Bugcrowd](https://bugcrowd.com/Midalord)
-[Google VDP](https://bughunters.google.com/profile/833a252f-d43c-453f-b17f-7dd7d4861229)
 # Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=shell-bomb&show_icons=true&layout=compact&bg_color=30,12c2e9,f64f59&title_color=fff&text_color=fff">
