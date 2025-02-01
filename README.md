@@ -1,6 +1,6 @@
 ##  👋 HI there
 
-I'm M4laka, IT nerd, sportive person and nature lover while I research about cybersecurity, 
+I'm M4laka, IT nerd, sportsman person and nature lover while I research about cybersecurity, 
 I love to share all my knowledge with my colleagues to learn and share
 
 # About me
@@ -42,7 +42,7 @@ I love to share all my knowledge with my colleagues to learn and share
   *  https://www.osac.gov/
   *  https://www.lavanguardia.com/
 * Volunteer in various conferences/competitions (RootedCON 2024).
-* Staf Volunteer at National Cyberleague 2024 (Assisting participants with challenge related questions and explaining the solution of the challenge in front of world agencies including FBI)
+* Staff Volunteer at National Cyber League 2024 (Assisting participants with challenge related questions and explaining the solution of the challenge in front of world agencies including FBI)
 * Creating the training programme and certifications for new hires in my company (training programme for the cybersecurity department).
 *  Successfuly taught more than 10 students in 1 year about offensive security.
 
