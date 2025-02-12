@@ -22,7 +22,7 @@ I love to share all my knowledge with my colleagues to learn and share
 
 # My Current Projects
 * Cybersecurity blog
-* C++ Learning
+* Learning C++ and Python
 * Penetration testing Cheatsheet
 * Active directory Cheatsheet
 * Red teaming in WebOSTV
