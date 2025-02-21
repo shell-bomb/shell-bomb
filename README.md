@@ -32,6 +32,7 @@ I love to share all my knowledge with my colleagues to learn and share
 # My achievements
 * Awarded with google cloud bootcamp, collaboration between google and Altostratus.
 * Speaker at HackOn (Windows privilege escalation workshop)
+* Speaker at Bsides Malaga 2025 (Owasp Top 10 LLM)
 * Various talks in high schools and universities about hacking and Red teaming
    * Linkia FP (Talk about hacking and bug bounty)
    * Universidad de Valladolid (Active directory Workshop focused on red teaming).
